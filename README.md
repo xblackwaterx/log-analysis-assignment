@@ -146,3 +146,5 @@ You can adjust the following parameters in the script:
 - **Threshold**: Set the number of failed login attempts that should be flagged as suspicious. For example, setting `threshold = 10` will flag IPs with more than 10 failed logins.
 - **Log File Path**: Update the `log_file` variable to point to your actual log file.
 
+
+**Thank You!!**
