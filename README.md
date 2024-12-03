@@ -60,7 +60,7 @@ pip install pandas
 
 ### Input File Format
 
-This script assumes the log file is in a format similar to the following:
+This script assumes the log file is in a format similar to the following: (*CHECK "sample.log"*)
 
 ```
 192.168.1.1 - - [12/Dec/2023:06:25:13 +0000] "GET /index.html HTTP/1.1" 200 1234
