@@ -83,6 +83,9 @@ The analysis results will be saved to `log_analysis_results.csv`, containing the
 3. **Suspicious Activity (Above Threshold)**: A list of IP addresses with failed login attempts exceeding the threshold.
 4. **Suspicious Activity (Under Threshold)**: A list of IP addresses with failed login attempts under the threshold.
 
+   <img width="179" alt="image" src="https://github.com/user-attachments/assets/49249396-b4c5-463c-88b1-e685b72ca5a9">
+
+
 #### Console Output
 
 The console will display the results in a readable format:
@@ -91,6 +94,11 @@ The console will display the results in a readable format:
 2. **Most Accessed Endpoint**: Displays the endpoint that has been accessed the most.
 3. **Suspicious Activity Detected (Above Threshold)**: If any IP addresses have failed login attempts exceeding the threshold, they will be listed.
 4. **Suspicious Activity Detected (Under Threshold)**: Displays the IP addresses with failed login attempts under the threshold.
+
+<img width="461" alt="image" src="https://github.com/user-attachments/assets/80888f8e-bc19-4beb-ad50-a7eaff369ff7">
+
+
+
 
 ### Example Output
 
