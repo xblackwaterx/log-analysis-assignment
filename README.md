@@ -1,4 +1,4 @@
-# log-analysis-assignment
+# log-analysis-script
 Python script for analyzing server logs
 
 ## Overview
